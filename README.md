@@ -1,6 +1,7 @@
 
 # Disaster-Related-statistics-accounting-tool
 
+In this tool users will be able to produce different types of disaster related maps and statistics table.  
 
 <p><img src="./Tool.png" alt="Disaster-Related-statistics-accounting-tool"></p>
 
