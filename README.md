@@ -10,7 +10,8 @@ Tutorial :  https://www.youtube.com/watch?v=XQM6dZyncCg
 URL : https://aahlaad-musunuru.shinyapps.io/Natural_Hazard_Damage_Assesment_Tool/
 
 
-To test the tool click on sample data button to download and unzip the sample data where the users can get 5 different groups of input data required.
+To test the tool click on sample data button to download and unzip the sample data where the users can get 5 different groups of input data sets.
+
 
 
 ### Help & feedback
