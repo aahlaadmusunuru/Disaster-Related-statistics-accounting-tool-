@@ -5,6 +5,7 @@ In this tool users will be able to identify the impact of hazard on Land Cover,P
 layers and result in producing impact of hazrd on this layers and genearate stasticies tabe and accounting reports. 
 
 Tutorial :  https://www.youtube.com/watch?v=XQM6dZyncCg
+
 URL : https://aahlaad-musunuru.shinyapps.io/Natural_Hazard_Damage_Assesment_Tool/
 ## Steps how to use the tool
 To test the tool click on sample data button to download and unzip the sample data where the users can get 5 different groups of input data sets.Useres can upload the sample data in to the tool and generate the accounts.
