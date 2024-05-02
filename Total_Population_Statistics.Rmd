@@ -1,6 +1,6 @@
 
 ---
-title: Population Indicators Extent Statistic report.|
+title: Total population indicators statistic report.|
 
 output: 
  html_document:

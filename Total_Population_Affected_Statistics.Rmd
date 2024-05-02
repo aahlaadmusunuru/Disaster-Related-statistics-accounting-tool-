@@ -1,6 +1,6 @@
 
 ---
-title:  Population Indicators affected Statistic report.|
+title:  Population indicators affected statistic report.|
 
 output: 
  html_document:

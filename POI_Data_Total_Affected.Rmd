@@ -1,6 +1,6 @@
 
 ---
-title: Point of Interest Affected Statistic report.|
+title: Point of interest affected statistic report.|
 
 
 output: 

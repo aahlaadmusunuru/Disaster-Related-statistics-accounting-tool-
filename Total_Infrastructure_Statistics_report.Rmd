@@ -1,6 +1,6 @@
 
 ---
-title: Total Infrastructure Statistic report.|
+title: Total infrastructure statistic report.|
 
 
 output: 

@@ -884,7 +884,7 @@ tabPanel("User-Guide", value = "panel5",
                width = "100%",
                tabPanel('Manual',
                         
-                    #    tags$iframe(src = "README.html", style = "width:100%; height:90vh;")
+                        tags$iframe(src = "Manual/README.html", style = "width:100%; height:90vh;")
                         
                         
                )
@@ -1026,7 +1026,7 @@ server <- function(input, output,session) {
       addPolygons(data = Hazard_Boundaries_data, fillColor = input$color_Data, fillOpacity = 0.5, group = "Hazard") %>% setView(lng = x, lat = y, zoom = 12)%>%
       addLayersControl(
         baseGroups = c("OSM (default)" ,"Esri"),
-        overlayGroups = c("Admin","Hazard")
+        overlayGroups = c("Admin","Hazard"),options = layersControlOptions(collapsed = FALSE)
       ) %>%
       addScaleBar() %>%
       addLegend(position = "bottomright", colors = "#d5b43c", labels = 'Habitat', title = "Legend")
@@ -2333,6 +2333,12 @@ server <- function(input, output,session) {
     }
   )
   
+  output$User_Manual <- downloadHandler(
+    filename = "README.pdf",
+    content = function(file) {
+      file.copy("www/README.pdf", file)
+    }
+  )
   
   
   

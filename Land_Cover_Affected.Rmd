@@ -1,6 +1,6 @@
 
 ---
-title: Land Cover Extent affected statistics report|
+title: Land cover extent affected statistics report|
 
 output: 
  html_document:

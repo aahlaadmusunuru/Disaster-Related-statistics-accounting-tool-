@@ -1,6 +1,6 @@
 
 ---
-title: Point of Interest Statistic report.|
+title: Point of interest statistic report.|
 
 
 output: 

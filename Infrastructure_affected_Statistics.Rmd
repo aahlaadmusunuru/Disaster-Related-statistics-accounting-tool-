@@ -1,6 +1,6 @@
 
 ---
-title: Total Infrastructure affected Statistic report.|
+title: Total infrastructure affected statistic report.|
 
 
 output: 

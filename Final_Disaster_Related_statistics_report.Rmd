@@ -1,6 +1,6 @@
 
 ---
-title: Disaster Affected Statistics report.|
+title: Disaster affected statistics report.|
 
 
 output: 
@@ -49,7 +49,9 @@ library(purrr)
 ```
 # Introduction
 
-In this section, users will be able to view the statistics table that shows the total extent and impact of natural hazards on the population, land cover, points of interest, and infrastructure data layers. Additionally, users can also access the statistical table
+In this section, users will be able to see the population, land cover, points of interest, and infrastructure layers affected  maps.
+Additionally, users can also access the statistical table.Morever withe the Meta data information.
+
 
 ## Disaster impact on assets map
 
